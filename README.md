@@ -2,21 +2,21 @@
 
 <div align="center">
   <h3>
-    <a href="https://gdac-qr-code.vercel.app/">
+    <a href="https://gdac-card-details.vercel.app">
       Live
     </a>
     | 
-    <a href="https://www.frontendmentor.io/solutions/qr-code-component-using-html-css-scss-and-bem-ljVooeRfKY">
+    <a href="https://www.frontendmentor.io/solutions/interactive-card-details-made-with-html-css-javascript-JIMIOIl77q">
       Solution
     </a>
     | 
-    <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H">
+    <a href="https://www.frontendmentor.io/challenges/interactive-card-details-form-XpS8cKZDWw">
       Challenge
     </a>
   </h3>
 </div>
 
-<img src="./design/desktop-design.jpg"></img>
+<img src="./images/desktop-design.jpg"></img>
 
 ## About the Project
 
@@ -38,5 +38,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Acknowledgments
 
-Thanks to IRVINE MESA (@DrMESAZIM) for a guide to code review 🤝🏾.
+Thanks to [@DrMESAZIM](https://www.frontendmentor.io/profile/DrMESAZIM) for a guide to code review 🤝🏾.
 We move, and together we shall achieve 🤞🏾.
