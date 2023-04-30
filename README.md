@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://gdac-card-details.vercel.app">
+    <a href="https://gdac-card-details.vercel-site.app">
       Live
     </a>
     | 
